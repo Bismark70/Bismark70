@@ -2,9 +2,6 @@
 
 
 
-![IMG_5739~2-01](https://github.com/user-attachments/assets/1fd71838-ec4e-404a-903c-ae6a432b5f01)
-
-
 🎓 BSc Information Technology Student | Aspiring Cybersecurity Analyst & Web Developer
 
 🔒 Passionate about securing systems and building robust web applications
